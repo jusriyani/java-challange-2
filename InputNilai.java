@@ -26,7 +26,7 @@ public class InputNilai {
     }else if (score >= 51 && score <= 75){
         System.out.println("You got C");
     }else if (score >= 76 && score <= 90){
-        System.out.println("You got D");
+        System.out.println("You got B");
     }else if (score >= 91 && score <= 100){
         System.out.println("You got A");
     }else if (score >=100){
